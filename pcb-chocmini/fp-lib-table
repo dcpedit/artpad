@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Artisan")(type "KiCad")(uri "${KIPRJMOD}/Artisan.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "/Users/mlam/Developer/keyboards/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+)
