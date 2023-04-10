@@ -1,5 +1,9 @@
 # Stacked Acrylic Case
 
+
+https://user-images.githubusercontent.com/800930/230827112-2fbff8e4-7619-4b2e-93d9-0d07b0fd45db.mp4
+
+
 ## BOM
 | Part | Count | Notes |
 |------|-------|-------|
