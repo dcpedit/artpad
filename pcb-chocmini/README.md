@@ -1,8 +1,11 @@
 # Choc Mini PCB
 
+<img width="600" alt="chocmini-pcb" src="https://user-images.githubusercontent.com/800930/230826789-395d313c-e982-46a3-a88b-7a79c3fea62f.png">
+
 ## JLCPCB File
 `artpad_mini.zip`
 
+![artpad-1](https://user-images.githubusercontent.com/800930/230826857-0c972689-6df6-4ba3-a53a-51002b357275.jpg)
 
 ## BOM
 | Part | Count | Notes |
